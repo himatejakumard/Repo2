@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is A2B4-3949
-
- Directory of C:\Users\Dell\Desktop\MyProject
-
-03-11-2022  23:29    <DIR>          .
-03-11-2022  23:29    <DIR>          ..
-03-11-2022  23:29                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  81,900,183,552 bytes free
+change 1
